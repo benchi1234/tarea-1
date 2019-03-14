@@ -1,8 +1,8 @@
 #!/bin/bash
 function nombres() {
-	for CLAUDIA in  $@
+	for BENCHI ONE in  $@
 	do
-	echo "$CLAUDIA"		
+	echo "$BENCHI ONE"		
 	done
 }
 
